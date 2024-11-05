@@ -14,3 +14,13 @@ while to run it on the uploaded images folder you need to use
 ```
 sh run_models_batch_uploaded.sh
 ```
+
+## Project Result
+As you will see in each of the model's output metrics, on the pet images and on the uploaded images, the best model with these parameters
+
+*pct_correct_dogs    : 100.00%*
+*pct_correct_breed   : 93.33%*
+*pct_correct_notdogs : 100.00%*
+*pct_match           : 87.50%*
+
+which is VGG, is the best model.

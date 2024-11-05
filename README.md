@@ -27,3 +27,5 @@ As you will see in each of the model's output metrics, on the pet images and on 
 *pct_match           : 87.50%*
 
 which is VGG, is the best model.
+
+### Note: it is better to create a virtual environment using anaconda or a python venv for installing the requirements.

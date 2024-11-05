@@ -6,11 +6,11 @@ This repository contains several files that work together, starting from the mos
 Along with the neccessary scipts that are defined within it such as; *classify_images.py*, *classifier.py*, *get_input_args.py*, *get_pet_labels* and so on. I will leave you the curiostiy to discover each one alone.
 
 To run the project on 'pet_images' folder you need to use 
-'''
+```
 sh run_models_batch.sh
-'''
+```
 
 while to run it on the uploaded images folder you need to use
-'''
+```
 sh run_models_batch_uploaded.sh
-'''
+```
